@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import './AddTodo.css'
 import { useState } from "react";
 import { TodoList } from "./TodoList";
